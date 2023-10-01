@@ -1,0 +1,2 @@
+bin_PROGRAMS=audioplayer
+audioplayer_SOURCES=audioplayer.c
